@@ -1,0 +1,6 @@
+username=selenium
+password=password
+url=http://google.com
+browser=chrome
+set01=webdriver.chrome.driver
+set02=C:\\Personal_Data\\Java\\chromedriver_win32\\chromedriver.exe

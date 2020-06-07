@@ -19,6 +19,7 @@ public class day1 {
 			Assert.assertTrue(false);
 			System.out.println("PersonalLoanweblogin04");
 			System.out.println("PersonalLoanweblogin05");
+			System.out.println("PersonalLoanweblogin06");
 		}
 		
 		@Test

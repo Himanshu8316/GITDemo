@@ -8,5 +8,6 @@ public class day4 {
 	public void HomeLoanInterestcalculator()
 	{
 		System.out.println("HomeLoanInterestcalculator");
+		System.out.println("HomeLoanInterestcalculator01");
 	}
 }

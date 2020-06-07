@@ -13,6 +13,8 @@ public class day1 {
 		public void PersonalLoanweblogin()
 		{
 			System.out.println("PersonalLoanweblogin");
+			System.out.println("PersonalLoanweblogin01");
+			System.out.println("PersonalLoanweblogin02");
 			Assert.assertTrue(false);
 		}
 		

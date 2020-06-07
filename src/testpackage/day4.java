@@ -9,5 +9,6 @@ public class day4 {
 	{
 		System.out.println("HomeLoanInterestcalculator");
 		System.out.println("HomeLoanInterestcalculator01");
+		System.out.println("HomeLoanInterestcalculator02");
 	}
 }

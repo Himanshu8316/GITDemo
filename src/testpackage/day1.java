@@ -17,6 +17,8 @@ public class day1 {
 			System.out.println("PersonalLoanweblogin02");
 			System.out.println("PersonalLoanweblogin03");
 			Assert.assertTrue(false);
+			System.out.println("PersonalLoanweblogin04");
+			System.out.println("PersonalLoanweblogin05");
 		}
 		
 		@Test

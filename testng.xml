@@ -10,6 +10,7 @@
       </class>
       <class name="testpackage.day2"/>
     </classes>
+    
   </test> <!-- Test -->
   <test thread-count="5" name="Home Loan">
     <classes>
